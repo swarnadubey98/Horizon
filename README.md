@@ -1,6 +1,9 @@
 # Horizon
 
 
+![Team-Horizon-1080 (1)](https://user-images.githubusercontent.com/60029940/72663294-fc9c1380-3a16-11ea-8520-b851e663aaca.png)
+
+
 # STATE TEACHER ELIGIBILITY TEST(STET)<br />
 The State Teacher Eligibility Test an exam conducted every year by state government of Sikkim and is minimum qualification required by person in sikkim to be eligible for appointment as a teacher for Classes I to VIII. Currently almost all the procedure is carried out manually which impose difficulty and bonds to repetitiveness <br />
 
