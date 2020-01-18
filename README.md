@@ -11,9 +11,9 @@ regularly and check the website frequently
 
 ## The innovations we bring
 Our task is to make user friendly website and mobile application that simplifiies the task and reduces all possible manual interventions.<br />
-The interface of our website and android application is user friendly and clearly insights the necessary details. <br />
-Keeping in mind the low and uneven connectivity in state of Sikkim , our website is made using all the light languages <br />
-All the details regarding exams like filling of application form, admit card ,time table, result etc will be sent to the applicant via emails and sms <br />
+ 1)The interface of our website and android application is user friendly and clearly insights the necessary details. <br /><br />
+2)Keeping in mind the low and uneven connectivity in state of Sikkim , our website is made using all the light languages <br /><br />
+3)All the details regarding exams like filling of application form, admit card ,time table, result etc will be sent to the applicant via emails and sms <br />
 
 
 
