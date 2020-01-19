@@ -32,7 +32,7 @@ Admin side website 70% completed
 # Or using the link below -
 [DOWNLOAD STET APP](https://drive.google.com/open?id=17wvYWbHOjja2QKXZ9pgkJuq1_Yje09jf)
 
-# Visit out project STET website
+# Visit our project STET website
 [>VISIT LIVE WEBSITE<](http://3.16.150.144/stet.git)
 
 
