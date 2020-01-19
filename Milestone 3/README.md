@@ -3,4 +3,4 @@
 User side website and android app are complted<br/>
 Admin side website 70% completed
 
-# Download the App by scanning the QR code below-
+# Download our App by scanning the QR code below-
